@@ -19,7 +19,7 @@
   <script>
 
   $(function() {
-    $.get('data-scatter.csv', function(csv) {     // EDIT to match your CSV data file name
+    $.get('PopCenterDistance.csv', function(csv) {     // EDIT to match your CSV data file name
       Highcharts.chart('container', {
         chart: {
           type: 'scatter',
@@ -27,11 +27,11 @@
         },
 
         title: {
-          text: 'Highcharts scatter chart from CSV'  // EDIT to insert your chart title
+          text: 'State population center distance from State political center by longitude ("westerliness")'  // EDIT to insert your chart title
         },
 
         subtitle: {
-          text: 'View <a href="data-scatter.csv"> source data</a>', // EDIT link and text
+          text: 'View <a href="PopCenterDistance.csv"> source data</a>', // EDIT link and text
           useHTML: true
         },
 
