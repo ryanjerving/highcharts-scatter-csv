@@ -1,16 +1,13 @@
 LONGITUDE,DISTANCE,STNAME
 -86.756826,54.8,Alabama
--148.873973,840,Alaska
 -111.86431,21.8,Arizona
 -92.655243,49.2,Arkansas
 -119.325359,269,California
 -105.208056,34.4,Colorado
 -72.870342,27,Connecticut
 -75.556835,17.6,Delaware
--77.014468,2.3,District of Columbia
 -81.634654,304,Florida
 -83.882712,50.9,Georgia
--157.484404,12.5,Hawaii
 -115.178681,101,Idaho
 -88.390334,140,Illinois
 -86.259514,37.5,Indiana
@@ -50,4 +47,3 @@ LONGITUDE,DISTANCE,STNAME
 -80.731308,80.9,West Virginia
 -89.018997,60.6,Wisconsin
 -107.019126,216,Wyoming
--66.346513,50.3,Puerto Rico
