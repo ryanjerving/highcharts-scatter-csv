@@ -10,6 +10,7 @@ http://www.highcharts.com is free for personal websites, school sites, or non-pr
 ## credits
 - Thanks @ilyankou for seriesMapping data, tooltips, and improving overall code
 - Thanks @andrewbtran at http://TrendCT.org for function to display financial data (with $ and commas)
+- Modified from https://jackdougherty.github.io/highcharts-scatter-csv/index.html for Trinity T005x Data Viz course.
 
 ## data
 - from TrendCT, NY Times, Stanford Education Data Archive, and American Community Survey 2009-13
