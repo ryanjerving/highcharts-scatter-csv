@@ -1,0 +1,49 @@
+LONGITUDE,DISTANCE,STNAME,CATEGORY
+-86.756826,54.8,Alabama,a
+-111.86431,21.8,Arizona,a
+-92.655243,49.2,Arkansas,a
+-119.325359,269,California,a
+-105.208056,34.4,Colorado,a
+-72.870342,27,Connecticut,a
+-75.556835,17.6,Delaware,a
+-81.634654,304,Florida,a
+-83.882712,50.9,Georgia,a
+-115.178681,101,Idaho,a
+-88.390334,140,Illinois,a
+-86.259514,37.5,Indiana,a
+-93.036629,42.3,Iowa,a
+-96.462812,76.7,Kansas,a
+-85.248467,43.3,Kentucky,a
+-91.508833,41.2,Louisiana,a
+-69.736482,3,Maine,a
+-76.797763,24.6,Maryland,a
+-71.36337,22.5,Massachusetts,b
+-84.203434,27.3,Michigan,b
+-93.571903,34.9,Minnesota,b
+-89.579514,48.9,Mississippi,b
+-92.198469,14.5,Missouri,b
+-111.296213,107,Montana,b
+-97.315578,58.3,Nebraska,b
+-116.19172,104,Nevada,b
+-71.461974,5.8,New Hampshire,b
+-74.432208,26.4,New Jersey,b
+-106.354349,91.8,New Mexico,b
+-74.620909,135,New York,b
+-79.658232,74.6,North Carolina,b
+-99.309504,123,North Dakota,b
+-82.773339,39.5,Ohio,b
+-96.836786,51.4,Oklahoma,b
+-122.585214,32.4,Oregon,c
+-77.00968,19.3,Pennsylvania,c
+-71.450869,8.8,Rhode Island,c
+-81.011022,2.5,South Carolina,c
+-99.002355,86.9,South Dakota,c
+-86.359136,37.4,Tennessee,c
+-97.365594,62.1,Texas,c
+-111.927035,31.1,Utah,c
+-72.816417,26.3,Vermont,c
+-77.81116,35.7,Virginia,c
+-121.619994,88.6,Washington,c
+-80.731308,80.9,West Virginia,c
+-89.018997,60.6,Wisconsin,c
+-107.019126,216,Wyoming,c
